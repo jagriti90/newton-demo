@@ -1,0 +1,55 @@
+.Carousel .Slider-wrapper{
+    width: 50%;
+}
+
+.carousel .thumb{
+    width: 2px;
+    height: 50px;
+}
+.carousel{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.word{
+    background-color: rgb(218, 179, 6);
+    color: white;
+    font-size: large;
+    font-weight: 900;
+    font-style: oblique;
+    
+}
+
+.crausal_bar{
+    position: relative;
+}
+
+.search_tag{
+    position: absolute;
+    margin: -30rem 0 0;
+    margin-left: 20vh;
+    border-radius: 0.5rem;
+}
+.exp_bar{
+  text-align: center;
+  margin-top: 1rem;
+}
+.input_bar{
+    margin-right: 1rem;
+    height: 3rem;
+    width: 28rem;
+    background-color: white;
+    border: solid cornflowerblue;
+    border-radius: 0.5rem;
+    margin-left: 3vh;
+    
+}
+.date_bar{
+    background-color: aquamarine;
+    margin-right: 4px;
+    height: 3rem;
+    width: 13rem;
+    background-color: white;
+    border: solid cornflowerblue;
+    border-radius: 0.5rem;
+}

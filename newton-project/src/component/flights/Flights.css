@@ -1,0 +1,43 @@
+/* input{
+    background-color: white;
+    height: 9vh;
+    width: 70vh;
+    border-radius: 0.8rem;
+    border: solid 0.1rem rgb(105, 99, 99)
+ }
+ input:hover{
+     border: solid 0.2rem rgb(37, 99, 235);
+     background-color: b;
+     color: rgb(37 99 235);
+ }
+ #date_bar{
+    background-color: white;
+    height: 9vh;
+    width: vh;
+    border-radius: 0.8rem;
+    border: solid 0.1rem rgb(105, 99, 99)
+ }
+ #slect_bar{
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 56px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 14px 32px 14px 12px;
+    border-color: rgb(192, 202, 213);
+    margin: 0px;
+    font-size: 16px;
+    border-radius: 12px;
+
+ }
+ #slect_bar:hover{
+    border: solid 0.2rem rgb(37, 99, 235);
+    background-color: b;
+    color: rgb(37 99 235);
+} */
+
+.nd_card{
+   margin-top: -20px;
+}
